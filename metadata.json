@@ -1,0 +1,7 @@
+{
+  "name": "靈析數據 (InsightData AI)",
+  "description": "專業級 AI 表格精準提取引擎，專為 16 欄位專案數據設計，提供高精確度的自動化轉換服務。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
